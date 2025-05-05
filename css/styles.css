@@ -288,10 +288,16 @@ li {
 .text_footer {
    font-size: 16px;
    letter-spacing: 0.02em;
-   color: #FFF;
+   color: #F4F4FD;
    max-width: 264px;
+   font-weight: 400;
+}
+
+.social_text {
    font-weight: 500;
+   font-size: 16px;
    line-height: 1.5;
+   letter-spacing: 0.02em;
    margin-bottom: 16px;
 }
 
