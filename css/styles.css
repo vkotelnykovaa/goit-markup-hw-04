@@ -119,6 +119,7 @@ li {
 }
 
 
+
 .link_nav
 
 .feature_text{
@@ -250,10 +251,8 @@ li {
 }
 
 .business_solution {
+   max-width: 1440px;
    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.png);
-   background-repeat: no-repeat;
-   background-position: center;
-   background-size: contain;
    color: white;
    text-align: center;
    padding: 188px 0;
@@ -261,6 +260,7 @@ li {
    align-items: center;
    justify-content: flex-start;
    flex-direction: column;
+   background-size: cover;
 }
 
 .contacts_address {
