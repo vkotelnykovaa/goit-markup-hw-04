@@ -286,11 +286,13 @@ li {
 
 
 .text_footer {
-   font-weight: 400;
    font-size: 16px;
    letter-spacing: 0.02em;
-   color: #F4F4FD;
+   color: #FFF;
    max-width: 264px;
+   font-weight: 500;
+   line-height: 1.5;
+   margin-bottom: 16px;
 }
 
 .studio_white {
@@ -302,10 +304,6 @@ li {
    margin: 0 auto;
    padding: 0 15px;
    box-sizing: border-box;
-}
-
-.flexd_row {
-   flex-direction: row;
 }
 
 .features_container {
@@ -327,6 +325,8 @@ li {
    color: #2e2f42;
    margin-bottom: 8px;
 }
+
+
 
 .teamsection_item {
    width: calc((100% - 72px) / 4);
@@ -464,6 +464,7 @@ li {
    display: flex;
    flex-direction: row;
    gap: 24px;
+   align-items: baseline
 }
 
 .icons_row {
@@ -497,4 +498,7 @@ li {
    transform: translateY(0%);
 }
 
+.logo_foot{
+   margin-right: 120px;
+}
 
