@@ -252,7 +252,7 @@ li {
 
 .business_solution {
    max-width: 1440px;
-   background-image:linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.png);
+   background-image:linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
    background-repeat: no-repeat;
    background-position: center;
    color: white;
@@ -456,8 +456,9 @@ li {
    background-color: #404BBF;
 }
 
-.footer_icons .social_link:hover {
-   background-color: #31D0AA;
+.footer_icons .social_link:hover,
+.footer_icons .social_link:focus {
+   background-color: #31d0aa;
 }
 
 .footer_icons {
