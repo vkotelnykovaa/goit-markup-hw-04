@@ -43,8 +43,6 @@ header {
    width: 100%;
 }
 
-
-
 .portfolio_card {
    border-bottom: 1px solid #ddd;
    padding-bottom: 10px;
@@ -118,10 +116,6 @@ li {
    display: inline-block;
 }
 
-
-
-.link_nav
-
 .feature_text{
    line-height: 1.5;
 }
@@ -174,8 +168,6 @@ li {
    position: relative;
    color: #404bbf;
 }
-
-
 
 .title_two {
    font-weight: 700;
@@ -332,8 +324,6 @@ li {
    margin-bottom: 8px;
 }
 
-
-
 .teamsection_item {
    width: calc((100% - 72px) / 4);
    border-radius: 0px 0px 4px 4px;
@@ -350,7 +340,6 @@ li {
    display: flex;
    flex-direction: column;
 }
-
 
 .portfolio_list_container {
    display: flex;
@@ -408,6 +397,10 @@ li {
 }
 
 .icon-soc{
+   fill: #f4f4fd;
+}
+
+.icon-soc-foot {
    fill: #f4f4fd;
 }
 
