@@ -402,6 +402,7 @@ li {
 
 .icons_feature{
    border: 1px solid #8e8f99;
+   margin-bottom: 8px;
    border-radius: 4px;
    width: 264px;
    height: 112px;
@@ -410,10 +411,6 @@ li {
    align-items: center;
    background-color: #f4f4fd;
      
-}
-
-.text_box{
-   margin-top: 8px;
 }
 
 .teamsection_icons{
